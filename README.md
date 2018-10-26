@@ -1,3 +1,4 @@
+
 ## Sobre
  
 Este repositório hospeda um aplicativo Python muito simplista usado para demonstração dos recursos da plataforma OpenShift. Esta aplicação usa:
